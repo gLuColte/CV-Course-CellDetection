@@ -1,6 +1,6 @@
 # CV-Course-CellDetection
 
-This respository presents Computer Vision (COMP9517) Group Project Created by: Group 1. Review presentation pdf for quick summary, report pdf for detailed analysis. Sample Video is also provided
+This respository presents Computer Vision (COMP9517) Group Project, created by Group 1. Review presentation pdf for quick summary, report pdf for detailed analysis. Sample Video is also provided
 
 Overview is presented as following do points:
 - Detecting 3 different Cell types [PhC-C2DL-PSC, Fluo-N2DL-HeLa, DIC-C2DH-HeLa]
